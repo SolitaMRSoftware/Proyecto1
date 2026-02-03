@@ -19,13 +19,6 @@ Este proyecto está desarrollado en Python y permite **analizar una lista de reg
 
 ## Ejemplo de uso
 
-
-Actualización de prueba
-
-Cambio realizado desde el repo original
-
-
-
 ```python
 # Crear un archivo nuevo en la misma carpeta, por ejemplo test.py
 
