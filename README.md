@@ -22,6 +22,8 @@ Este proyecto está desarrollado en Python y permite **analizar una lista de reg
 
 Actualización de prueba
 
+Cambio realizado desde el repo original
+
 
 
 ```python
