@@ -36,3 +36,5 @@ resumen_final = registros_operaciones(registros)
 print(resumen_final)  # Salida esperada: {'Soporte': 5, 'IT': 4}
 
 ```
+
+Este proyecto es parte de prácticas de Python orientadas a backend
