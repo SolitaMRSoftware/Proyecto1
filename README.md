@@ -1,4 +1,6 @@
-# Proyecto1 – Version desde master
+<<<<<<< HEAD
+# Proyecto1 – Version nueva desde master
+
 
 Este proyecto está desarrollado en Python y permite **analizar una lista de registros operativos** y devolver un resumen de la **cantidad total de incidentes por área**.
 
